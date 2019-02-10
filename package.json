@@ -1,0 +1,12 @@
+{
+  "name": "dado-css",
+  "version": "1.0.0",
+  "description": "Creacion de un dado utilizando HTML, Javascript y transformaciones en CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andreas Leimbach O.",
+  "license": "MIT"
+}
